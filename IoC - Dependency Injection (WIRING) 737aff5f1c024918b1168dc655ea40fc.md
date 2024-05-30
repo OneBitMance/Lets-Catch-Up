@@ -6,4 +6,4 @@
 
 (Spring Container actually does all the Wiring and Injecting, we just describe it in our config what needs to be wired).
 
-![Untitled](IoC%20-%20Dependency%20Injection%20(WIRING)%20737aff5f1c024918b1168dc655ea40fc/Untitled.png)
+![Untitled](IoC%20-%20Dependency%20Injection%20(WIRING)%20737aff5f1c024918b1168dc655ea40fc/Inversion_Of_Control.png)
